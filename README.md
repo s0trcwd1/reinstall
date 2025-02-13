@@ -145,6 +145,9 @@ certutil -urlcache -f -split https://jihulab.com/bin456789/reinstall/-/raw/main/
 > <https://access.redhat.com/downloads/content/rhel>
 
 ```bash
+
+bash reinstall.sh debian 10
+
 bash reinstall.sh centos      9
                   anolis      7|8
                   alma        8|9
